@@ -1,0 +1,114 @@
+{"type": "server", "timestamp": "2021-07-31T03:31:58,114Z", "level": "INFO", "component": "o.e.n.Node", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "version[7.9.2], pid[6], build[default/docker/d34da0ea4a966c4e49417f2da2f244e3e97b4e6e/2020-09-23T00:45:33.626720Z], OS[Linux/3.10.0-1160.36.2.el7.x86_64/amd64], JVM[AdoptOpenJDK/OpenJDK 64-Bit Server VM/15/15+36]" }
+{"type": "server", "timestamp": "2021-07-31T03:31:58,116Z", "level": "INFO", "component": "o.e.n.Node", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "JVM home [/usr/share/elasticsearch/jdk]" }
+{"type": "server", "timestamp": "2021-07-31T03:31:58,116Z", "level": "INFO", "component": "o.e.n.Node", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "JVM arguments [-Xshare:auto, -Des.networkaddress.cache.ttl=60, -Des.networkaddress.cache.negative.ttl=10, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -XX:+ShowCodeDetailsInExceptionMessages, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dio.netty.allocator.numDirectArenas=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.locale.providers=SPI,COMPAT, -Xms1g, -Xmx1g, -XX:+UseG1GC, -XX:G1ReservePercent=25, -XX:InitiatingHeapOccupancyPercent=30, -Djava.io.tmpdir=/tmp/elasticsearch-6098920759375170245, -XX:+HeapDumpOnOutOfMemoryError, -XX:HeapDumpPath=data, -XX:ErrorFile=logs/hs_err_pid%p.log, -Xlog:gc*,gc+age=trace,safepoint:file=logs/gc.log:utctime,pid,tags:filecount=32,filesize=64m, -Des.cgroups.hierarchy.override=/, -XX:MaxDirectMemorySize=536870912, -Des.path.home=/usr/share/elasticsearch, -Des.path.conf=/usr/share/elasticsearch/config, -Des.distribution.flavor=default, -Des.distribution.type=docker, -Des.bundled_jdk=true]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [aggs-matrix-stats]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [analysis-common]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [constant-keyword]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [flattened]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [frozen-indices]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,943Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [ingest-common]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [ingest-geoip]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [ingest-user-agent]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [kibana]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [lang-expression]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [lang-mustache]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [lang-painless]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [mapper-extras]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [parent-join]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,944Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [percolator]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,945Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [rank-eval]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,945Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [reindex]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,945Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [repository-url]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,945Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [search-business-rules]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,945Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [searchable-snapshots]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [spatial]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [tasks]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [transform]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [transport-netty4]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [vectors]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [wildcard]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,949Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-analytics]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-async]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-async-search]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-autoscaling]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-ccr]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-core]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-data-streams]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-deprecation]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-enrich]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,950Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-eql]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-graph]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-identity-provider]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-ilm]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-logstash]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-ml]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-monitoring]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-ql]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-rollup]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,951Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-security]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,952Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-sql]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,952Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-stack]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,952Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-voting-only-node]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,952Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "loaded module [x-pack-watcher]" }
+{"type": "server", "timestamp": "2021-07-31T03:32:01,952Z", "level": "INFO", "component": "o.e.p.PluginsService", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "no plugins loaded" }
+{"type": "server", "timestamp": "2021-07-31T03:32:02,075Z", "level": "ERROR", "component": "o.e.b.ElasticsearchUncaughtExceptionHandler", "cluster.name": "elasticsearch", "node.name": "elasticsearch-master-0", "message": "uncaught exception in thread [main]",
+"stacktrace": ["org.elasticsearch.bootstrap.StartupException: ElasticsearchException[failed to bind service]; nested: AccessDeniedException[/usr/share/elasticsearch/data/nodes];",
+"at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:174) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Elasticsearch.execute(Elasticsearch.java:161) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.cli.EnvironmentAwareCommand.execute(EnvironmentAwareCommand.java:86) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.cli.Command.mainWithoutErrorHandling(Command.java:127) ~[elasticsearch-cli-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.cli.Command.main(Command.java:90) ~[elasticsearch-cli-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:126) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:92) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"Caused by: org.elasticsearch.ElasticsearchException: failed to bind service",
+"at org.elasticsearch.node.Node.<init>(Node.java:695) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.node.Node.<init>(Node.java:277) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap$5.<init>(Bootstrap.java:227) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:227) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:393) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:170) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"... 6 more",
+"Caused by: java.nio.file.AccessDeniedException: /usr/share/elasticsearch/data/nodes",
+"at sun.nio.fs.UnixException.translateToIOException(UnixException.java:90) ~[?:?]",
+"at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]",
+"at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]",
+"at sun.nio.fs.UnixFileSystemProvider.createDirectory(UnixFileSystemProvider.java:388) ~[?:?]",
+"at java.nio.file.Files.createDirectory(Files.java:694) ~[?:?]",
+"at java.nio.file.Files.createAndCheckIsDirectory(Files.java:801) ~[?:?]",
+"at java.nio.file.Files.createDirectories(Files.java:787) ~[?:?]",
+"at org.elasticsearch.env.NodeEnvironment.lambda$new$0(NodeEnvironment.java:274) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.env.NodeEnvironment$NodeLock.<init>(NodeEnvironment.java:211) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.env.NodeEnvironment.<init>(NodeEnvironment.java:271) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.node.Node.<init>(Node.java:344) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.node.Node.<init>(Node.java:277) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap$5.<init>(Bootstrap.java:227) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:227) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:393) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:170) ~[elasticsearch-7.9.2.jar:7.9.2]",
+"... 6 more"] }
+uncaught exception in thread [main]
+ElasticsearchException[failed to bind service]; nested: AccessDeniedException[/usr/share/elasticsearch/data/nodes];
+Likely root cause: java.nio.file.AccessDeniedException: /usr/share/elasticsearch/data/nodes
+        at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:90)
+        at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+        at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+        at java.base/sun.nio.fs.UnixFileSystemProvider.createDirectory(UnixFileSystemProvider.java:388)
+        at java.base/java.nio.file.Files.createDirectory(Files.java:694)
+        at java.base/java.nio.file.Files.createAndCheckIsDirectory(Files.java:801)
+        at java.base/java.nio.file.Files.createDirectories(Files.java:787)
+        at org.elasticsearch.env.NodeEnvironment.lambda$new$0(NodeEnvironment.java:274)
+        at org.elasticsearch.env.NodeEnvironment$NodeLock.<init>(NodeEnvironment.java:211)
+        at org.elasticsearch.env.NodeEnvironment.<init>(NodeEnvironment.java:271)
+        at org.elasticsearch.node.Node.<init>(Node.java:344)
+        at org.elasticsearch.node.Node.<init>(Node.java:277)
+        at org.elasticsearch.bootstrap.Bootstrap$5.<init>(Bootstrap.java:227)
+        at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:227)
+        at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:393)
+        at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:170)
+        at org.elasticsearch.bootstrap.Elasticsearch.execute(Elasticsearch.java:161)
+        at org.elasticsearch.cli.EnvironmentAwareCommand.execute(EnvironmentAwareCommand.java:86)
+        at org.elasticsearch.cli.Command.mainWithoutErrorHandling(Command.java:127)
+        at org.elasticsearch.cli.Command.main(Command.java:90)
+        at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:126)
+        at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:92)
+For complete error details, refer to the log at /usr/share/elasticsearch/logs/elasticsearch.log
